@@ -5,6 +5,7 @@
 <%@taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 
 
+
 <spring:url var="css" value="/resources/css" />
 <spring:url var="js" value="/resources/js" />
 <spring:url var="jquery" value="/resources/jquery" />
